@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>katamotokosuke.github.io/site-demo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Dec 2018 11:41:25 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="katamotokosuke.github.io/site-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starting Demo</title>
-      <link>http://example.org/post/starting-demo/</link>
+      <link>katamotokosuke.github.io/site-demo/post/starting-demo/</link>
       <pubDate>Mon, 31 Dec 2018 11:41:25 +0900</pubDate>
       
-      <guid>http://example.org/post/starting-demo/</guid>
+      <guid>katamotokosuke.github.io/site-demo/post/starting-demo/</guid>
       <description>hoge</description>
     </item>
     
